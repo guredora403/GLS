@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prompt: one
+  publisher: MyString
+  text: MyString
+  URL: MyString
+  delete_password: MyString
+
+two:
+  prompt: two
+  publisher: MyString
+  text: MyString
+  URL: MyString
+  delete_password: MyString

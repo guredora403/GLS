@@ -7,3 +7,13 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+prompt = Prompt.create(
+  publisher: "test-user",
+  title: "test",
+  description: "何かをします。",
+  prompt_text: "hoge",
+  delete_password: "Password for deletion",
+  view_count: 0
+)
+prompt.save
