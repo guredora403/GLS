@@ -1,3 +1,3 @@
 class Prompt < ApplicationRecord
-    has_many :generatedContent
+    has_many :GeneratedContents
 end

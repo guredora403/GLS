@@ -1,0 +1,9 @@
+<% content_for(:title, "プロンプト一覧") %>
+<h1>投稿されたプロンプトの一覧です。</h1>
+<%= link_to "プロンプトを投稿する", "/new", class: "btn btn-primary" %>
+<% @prompts.each do |prompt| %>
+    <h2><%= prompt.title %></h2>
+    <p>投稿者: <%= prompt.publisher %></p>
+    <p><%= prompt.description %></p>
+    <%= link_to "詳細", "/prompts/#{prompt.id}" %>
+<% end %>

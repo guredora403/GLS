@@ -1,0 +1,22 @@
+<% content_for(:title, @prompt.title) %>
+<h1>プロンプト詳細画面です。</h1>
+<p>プロンプトの詳細を表示します。</p>
+<h2><%= @prompt.title %></h2>
+<p>投稿者: <%= @prompt.publisher %></p>
+<p><%= @prompt.description %></p>
+<p>最終更新: <%= @prompt.updated_at %></p>
+<h2>内容</h2>
+<p><%= @prompt.prompt_text %></p>
+<h2>生成結果例</h2>
+<%= link_to "生成結果例を追加", "#{@prompt.id}/new" %><br>
+<% c = 1 %>
+<% @generated_contents.each do |generated_content| %>
+    <h3><%= c %>番目</h3>
+    <p>投稿者: <%= generated_content.publisher %></p>
+    <p>
+        <%= generated_content.text %>
+    </p>
+    <%= link_to "共有リンクを開く", generated_content.URL if generated_content.URL.present? %><br>
+    <% c += 1 %>
+<% end %>
+<%= link_to "一覧へ戻る", "/prompts/"%><br>

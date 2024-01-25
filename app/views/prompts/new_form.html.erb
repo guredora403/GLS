@@ -1,0 +1,26 @@
+<% content_for(:title, "プロンプト新規作成画面") %>
+<h1>プロンプト新規作成画面です。</h1>
+<p>以下のフォームからプロンプトの追加ができます。</p>
+<h2>プロンプト追加フォーム</h2>
+<%= form_with model: @new_prompt, url: "/new" do |form| %>
+    <p>
+        <%= form.label :title, "タイトル" %>
+        <%= form.text_field :title %>
+    </p>
+    <p>
+        <%= form.label :publisher, "投稿者名" %>
+        <%= form.text_field :publisher %>
+    </p>
+    <p>
+        <%= form.label :description, "簡単な説明" %>
+        <%= form.text_area :description %>
+    </p>
+    <p>
+        <%= form.label :prompt_text, "プロンプト" %>
+        <%= form.text_area :prompt_text %>
+    </p>
+    <p>
+        <%= form.submit "追加" %>
+    </p>
+<% end %>
+<%= link_to "戻る", "/prompts" %>
