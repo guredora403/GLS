@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   get 'prompts' => 'prompts#index'
   get 'prompts/:id' => 'prompts#show'
   get '/new' => 'prompts#new_form'
+  get '/prompts/:id/new' => 'prompts#new_content'
+  post '/prompts/:id/new' => 'prompts#add_content'
   post '/new' => 'prompts#new'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 

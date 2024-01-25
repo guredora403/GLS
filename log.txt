@@ -1,0 +1,100 @@
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails/processor.rb:4:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails.rb:39:in `require_relative'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails.rb:39:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap/engine.rb:3:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:61:in `register_rails_engine'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:11:in `load!'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:75:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/config/application.rb:7:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/Rakefile:4:in `require_relative'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/Rakefile:4:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:43:in `block in with_rake'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:41:in `with_rake'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:20:in `perform'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:156:in `invoke_rake'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:73:in `block in invoke'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:149:in `with_argv'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:69:in `invoke'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands.rb:18:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/bin/rails:4:in `<main>'
+[2m2024-01-25T10:39:52Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m](See full trace by running task with --trace)
+[2m2024-01-25T10:39:53Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Main child exited normally with code: 1
+[2m2024-01-25T10:39:53Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Starting clean up.
+[2m2024-01-25T10:39:53Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Umounting /dev/vdb from /data
+[2m2024-01-25T10:39:53Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][33m WARN[0m hallpass exited, pid: 314, status: signal: 15 (SIGTERM)
+[2m2024-01-25T10:39:53Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]2024/01/25 10:39:53 listening on [fdaa:3:d6a9:a7b:22e:a195:3865:2]:22 (DNS: [fdaa::3]:53)
+[2m2024-01-25T10:39:54Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][    3.249123] reboot: Restarting system
+[2m2024-01-25T10:39:54Z[0m runner[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]machine did not have a restart policy, defaulting to restart
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][    0.038745] Spectre V2 : WARNING: Unprivileged eBPF is enabled with eIBRS on, data leaks possible via Spectre v2 BHB attacks!
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][    0.042238] PCI: Fatal: No config space access function found
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Starting init (commit: 366341b)...
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Mounting /dev/vdb at /data w/ uid: 1000, gid: 1000 and chmod 0755
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Resized /data to 3204448256 bytes
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m starting statics vsock server
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Preparing to run: `/rails/bin/docker-entrypoint ./bin/rails server -b 0.0.0.0` as rails
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m [fly api proxy] listening at /.fly/api
+[2m2024-01-25T10:39:59Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]2024/01/25 10:39:59 listening on [fdaa:3:d6a9:a7b:22e:a195:3865:2]:22 (DNS: [fdaa::3]:53)
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]bin/rails aborted!
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]ExecJS::RuntimeUnavailable: Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes. (ExecJS::RuntimeUnavailable)
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/execjs-2.9.1/lib/execjs/runtimes.rb:68:in `autodetect'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/execjs-2.9.1/lib/execjs.rb:5:in `<module:ExecJS>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/execjs-2.9.1/lib/execjs.rb:4:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails/processor.rb:4:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails.rb:39:in `require_relative'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/autoprefixer-rails-10.4.16.0/lib/autoprefixer-rails.rb:39:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap/engine.rb:3:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:61:in `register_rails_engine'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:11:in `load!'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootstrap-5.3.2/lib/bootstrap.rb:75:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/zeitwerk-2.6.12/lib/zeitwerk/kernel.rb:38:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/config/application.rb:7:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/Rakefile:4:in `require_relative'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/Rakefile:4:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:43:in `block in with_rake'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:41:in `with_rake'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands/rake/rake_command.rb:20:in `perform'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:156:in `invoke_rake'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:73:in `block in invoke'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:149:in `with_argv'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/command.rb:69:in `invoke'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/railties-7.1.2/lib/rails/commands.rb:18:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]<internal:/usr/local/lib/ruby/3.2.0/rubygems/core_ext/kernel_require.rb>:37:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/usr/local/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:30:in `require'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]/rails/bin/rails:4:in `<main>'
+[2m2024-01-25T10:40:00Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m](See full trace by running task with --trace)
+[2m2024-01-25T10:40:01Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Main child exited normally with code: 1
+[2m2024-01-25T10:40:01Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Starting clean up.
+[2m2024-01-25T10:40:01Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][32m INFO[0m Umounting /dev/vdb from /data
+[2m2024-01-25T10:40:01Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][33m WARN[0m hallpass exited, pid: 314, status: signal: 15 (SIGTERM)
+[2m2024-01-25T10:40:01Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]2024/01/25 10:40:01 listening on [fdaa:3:d6a9:a7b:22e:a195:3865:2]:22 (DNS: [fdaa::3]:53)
+[2m2024-01-25T10:40:02Z[0m app[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m][    3.254919] reboot: Restarting system
+[2m2024-01-25T10:40:03Z[0m runner[3d8d7d44f92698] [32mnrt[0m [[34minfo[0m]machine did not have a restart policy, defaulting to restart
